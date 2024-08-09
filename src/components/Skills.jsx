@@ -1,16 +1,10 @@
 import React from "react";
-import bootstrap from "../assets/skills/bootstrap.svg";
 import c from "../assets/skills/c.svg";
-import cpp from "../assets/skills/cpp.svg";
 import css from "../assets/skills/css.svg";
 import html from "../assets/skills/html.svg";
-import java from "../assets/skills/java.svg";
 import javascript from "../assets/skills/javascript.svg";
 import nextjs from "../assets/skills/nextjs.svg";
-import node from "../assets/skills/node.svg";
 import react from "../assets/skills/react.svg";
-import sass from "../assets/skills/sass.svg";
-import tailwind from "../assets/skills/tailwind.svg";
 
 const Skills = () => {
   const skills = [
@@ -33,58 +27,16 @@ const Skills = () => {
       style: "shadow-yellow-500",
     },
     {
-      id: 4,
-      src: node,
-      title: "Node.js",
-      style: "shadow-lime-500",
-    },
-    {
-      id: 5,
-      src: sass,
-      title: "Sass",
-      style: "shadow-pink-400",
-    },
-    {
-      id: 6,
-      src: nextjs,
-      title: "Next.JS",
-      style: "shadow-white",
-    },
-    {
-      id: 7,
-      src: tailwind,
-      title: "TailwindCSS",
-      style: "shadow-sky-400",
-    },
-    {
       id: 8,
       src: react,
       title: "React",
       style: "shadow-blue-600",
     },
     {
-      id: 9,
-      src: bootstrap,
-      title: "Bootstrap",
-      style: "shadow-purple-400",
-    },
-    {
       id: 10,
       src: c,
       title: "Basic C",
       style: "shadow-blue-600",
-    },
-    {
-      id: 11,
-      src: cpp,
-      title: "Basic C++",
-      style: "shadow-blue-800",
-    },
-    {
-      id: 12,
-      src: java,
-      title: "Basic Java",
-      style: "shadow-orange-400",
     },
   ];
 

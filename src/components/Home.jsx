@@ -14,12 +14,16 @@ const Home = () => {
             Hi, I'm
           </h3>
           <h2 className="text-4xl sm:text-7xl font-bold text-white">
-            Paavan Agrawal
+            JOTHSNA
           </h2>
           <p className="text-gray-500 py-4 max-w-sm sm:max-w-xl">
-            I am a 2nd year CSE student at SRMIST, India. I am most interested
-            in the field of web development and am currently trying to grasp
-            knowledge of new technologies in the field.
+          I'm a third-year B.Tech student specializing in Artificial Intelligence and
+         Data Science at Kakinada Institute of Engineering and Technology. I
+         have a solid background in machine learning and hands-on experience
+         from an internship. I'm passionate about coding and always eager to
+         learn. I enjoy working on innovative projects and being part of coding
+         clubs. My goal is to use my skills and teamwork to succeed in
+         challenging environments.
           </p>
 
           <div className="hidden md:inline">

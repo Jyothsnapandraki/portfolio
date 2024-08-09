@@ -5,23 +5,13 @@ import { HiOutlineMail, HiOutlineLink } from "react-icons/hi";
 const Socials = () => {
   const links = [
     {
-      id: 1,
-      child: (
-        <>
-          Linktree <HiOutlineLink size={30} />
-        </>
-      ),
-      href: "https://linktr.ee/agrpaavan",
-      style: "rounded-tr-md",
-    },
-    {
       id: 2,
       child: (
         <>
           Github <FaGithub size={30} />
         </>
       ),
-      href: "https://github.com/AgrPaavan",
+      href: "https://github.com/Jyothsnapandraki",
     },
     {
       id: 3,
@@ -30,16 +20,7 @@ const Socials = () => {
           LinkedIn <FaLinkedin size={30} />
         </>
       ),
-      href: "https://www.linkedin.com/in/paavan-agrawal-28186a201/",
-    },
-    {
-      id: 4,
-      child: (
-        <>
-          Instagram <FaInstagram size={30} />
-        </>
-      ),
-      href: "https://www.instagram.com/paavanagr/",
+      href: "https://www.linkedin.com/in/pandraki-jothsna-33487a290",
     },
     {
       id: 5,
@@ -48,7 +29,7 @@ const Socials = () => {
           Mail <HiOutlineMail size={30} />
         </>
       ),
-      href: "mailto:paavanagr@gmail.com",
+      href: "mailto:shanmukharaopandraki@gmail.com",
       style: "rounded-br-md",
     },
   ];

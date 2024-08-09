@@ -47,19 +47,10 @@ const Navbar = () => {
       id: 3,
       child: (
         <>
-          <HiOutlineLink size={30} />
-        </>
-      ),
-      href: "https://linktr.ee/agrpaavan",
-    },
-    {
-      id: 3,
-      child: (
-        <>
           <FaGithub size={30} />
         </>
       ),
-      href: "https://github.com/AgrPaavan",
+      href: "https://github.com/Jyothsnapandraki",
     },
     {
       id: 3,
@@ -68,16 +59,7 @@ const Navbar = () => {
           <FaLinkedin size={30} />
         </>
       ),
-      href: "https://www.linkedin.com/in/paavan-agrawal-28186a201/",
-    },
-    {
-      id: 4,
-      child: (
-        <>
-          <FaInstagram size={30} />
-        </>
-      ),
-      href: "https://www.instagram.com/paavanagr/",
+      href: "https://www.linkedin.com/in/pandraki-jothsna-33487a290",
     },
     {
       id: 5,
@@ -86,7 +68,7 @@ const Navbar = () => {
           <HiOutlineMail size={30} />
         </>
       ),
-      href: "mailto:paavanagr@gmail.com",
+      href: "mailto:shanmukharaopandraki@gmail.com",
     },
   ];
 
@@ -98,7 +80,7 @@ const Navbar = () => {
       <div>
         <h1 className="text-5xl font-signature ml-2 text-accent hover:cursor-pointer">
           <Link to="home" smooth duration={500}>
-            Paavan
+            Jothsna
           </Link>
         </h1>
       </div>

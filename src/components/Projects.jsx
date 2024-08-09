@@ -1,46 +1,22 @@
 import React from "react";
 import basicNotes from "../assets/projects/basicNotes.png";
 import basicPortfolio from "../assets/projects/basicPortfolio.png";
-import discordjs from "../assets/projects/discordjs.png";
-import linktree from "../assets/projects/linktreeClone.png";
-import safesurf from "../assets/projects/safesurf.png";
 
 const Projects = () => {
   const projects = [
     {
-      id: 1,
-      name: "Discord Bot",
-      src: discordjs,
-      href: "https://github.com/AgrPaavan/Discord-Bot",
-    },
-    {
-      id: 2,
-      name: "Phishing Detecting Extension",
-      src: safesurf,
-      href: "https://github.com/AgrPaavan/SafeSurf",
-      shadow: "shadow-[#0093d3]",
-    },
-    {
       id: 3,
       name: "Basic Portfolio Site",
       src: basicPortfolio,
-      href: "https://github.com/AgrPaavan/basic-portfolio",
-      deploy: "https://agrpaavan.github.io/basic-portfolio",
+      href: "https://github.com/Jyothsnapandraki",
+      deploy: "https://github.com/Jyothsnapandraki",
     },
     {
       id: 4,
       name: "Basic Notes Application",
       src: basicNotes,
-      href: "https://github.com/AgrPaavan/notes-app",
-      deploy: "https://agrpaavan-notes-app.netlify.app/",
-    },
-    {
-      id: 5,
-      name: "Linktree Clone",
-      src: linktree,
-      href: "https://github.com/AgrPaavan/linktree-clone",
-      deploy: "https://agrpaavan-linktree-clone.netlify.app/",
-      shadow: "shadow-[#43e660]",
+      href: "https://github.com/Jyothsnapandraki/noteapplication",
+      deploy: "https://github.com/Jyothsnapandraki/noteapplication",
     },
   ];
 

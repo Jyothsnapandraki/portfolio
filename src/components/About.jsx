@@ -17,21 +17,20 @@ const About = () => {
           I am currently pursuing B.Tech in CSE with specialization in Software
           Engineering from{" "}
           <a
-            href="https://www.srmist.edu.in/"
+            href="https://kietgroup.in/"
             target="_blank"
             rel="noreferrer"
             className="border-b-2 border-gray-500"
           >
-            SRMIST
+            KIET
           </a>
           . I completed the schooling from{" "}
           <a
-            href="http://www.doonschool.com/"
             target="_blank"
             rel="noreferrer"
             className="border-b-2 border-gray-500"
           >
-            The Doon School
+            Advanced foundation school
           </a>
           .
         </p>
@@ -39,29 +38,29 @@ const About = () => {
         <br />
 
         <p className="text-lg">
-          I started coding when I was in the 9th grade as a requirment for my
-          GCSE Computer Science course but have since felt in love with it. I
-          wish that I was introduced to the world of programming earlier in my
-          life but am happy that I came around to it sooner than later.
+        Hi, I'm Jothsna, a passionate and dedicated B.Tech student specializing in
+        Computer Science with a focus on Artificial Intelligence and Data Science at
+        Kakinada Institute of Engineering and Technology. My journey in technology is
+        driven by curiosity and a desire to innovate, and I am constantly seeking new challenges to hone my skills.
         </p>
 
         <br />
 
         <p className="text-lg">
-          Currently I am trying to upskill myself in the field of web
-          development. Recently I learnt how to use the react framework. I also
-          learnt how to use bootstrap and tailwind css frameworks. I also plan
-          to learn how to integrate databases and code the backend in hopes of
-          being a full-stack engineer.
+        I have a strong foundation in machine learning, having completed an intensive
+         50-week course on the Foundations of Modern Machine Learning. My projects range
+        from developing a machine learning model for image classification to creating an
+        image-to-sketch application, showcasing my ability to apply complex algorithms 
+        to solve real-world problems. I'm also currently working on a note-taking application
+        using FastAPI, React, and MongoDB, demonstrating my proficiency in both backend and frontend development.
         </p>
 
         <br />
 
         <p className="text-lg">
-          I know how to code in basic Java thanks to my school coursework and
-          have learnt basic C and C++ in my college course. I am pursuing a
-          specialization in software engineering so I hope I get to learn
-          advanced C++ to help me write complete softwares.
+        I believe in the power of technology to transform lives and am committed to continuous 
+        learning and growth. As an avid coder and a classical dancer, I find a unique blend of logic
+         and creativity in my endeavors, striving to make a meaningful impact in both the tech world and the arts.
         </p>
       </div>
     </div>
